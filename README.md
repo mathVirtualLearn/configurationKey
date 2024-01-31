@@ -1,4 +1,4 @@
 # configurationKey
 
-## key001: true
-## key002: false
+## key001: 1
+## key002: 0
